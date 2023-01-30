@@ -1,0 +1,1 @@
+# Enable-woocommerce-customer-avatar-option
